@@ -1,1 +1,3 @@
-var schema;
+var schema = {
+  "type": "object"
+}
