@@ -1,6 +1,6 @@
 var schema = {
   "type": "object",
-  "properties" = {
+  "properties": {
   	"band": {
       "enum": ["5Ghz"]
     },
